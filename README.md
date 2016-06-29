@@ -1,2 +1,2 @@
-# test-case
-This is a first repo
+## This is Primary Heading
+### This is Secondary Heading
